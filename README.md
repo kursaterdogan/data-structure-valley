@@ -2,7 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # linked-list-operations
  
-<li>Functions
+<h3>Functions</h3>
+<li>
     <ul>
       <li>createNodes</li>
       <li>addFront</li>
