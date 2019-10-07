@@ -2,8 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # linked-list-operations
  
-<h3>Functions</h3>
-<li>
+<h4>Functions</h4>
     <ul>
       <li>createNodes</li>
       <li>addFront</li>
@@ -14,4 +13,3 @@
       <li>deleteStudent</li>
       <li>getStudents</li>
     </ul>
-  </li>
