@@ -5,6 +5,7 @@
 <h4>Functions</h4>
     <ul>
       <li>createNodes</li>
+      <li>firstEndSwap</li>
       <li>addFront</li>
       <li>addLast</li>
       <li>printReverse</li>
