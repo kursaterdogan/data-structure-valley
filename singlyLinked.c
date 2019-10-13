@@ -143,16 +143,31 @@ void deleteStudent(int studentNo)
     }
 }
 
+void firstEndSwap(bilge *hat) 
+{
+    bilge *p = hat;
+    bilge *q = hat;
+    int a = q->no;
+
+    while(p->next!=NULL)
+        p = p->next;
+
+    q->no = p->no;
+    p->no = a;    
+        
+}
+
 int main()
 {
     createNodes();
+    firstEndSwap(head);
     addFront(25);
     addLast(18);
     printReverse(head);
     printf("Your grace %d\n",countNodes(head));
     // destroy(head);
     // destroyRec(head);
-    deleteStudent(1);
+    // deleteStudent(1);
     getStudents();
     return 0;
 }
