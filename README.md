@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.io/soullreaver/soullreaver/linked-list-operations.svg)](http://hits.dwyl.io/soullreaver/soullreaver/linked-list-operations)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-# linked-list-operations
+# singlyLinked
  
 <h4>Functions</h4>
     <ul>
@@ -14,3 +14,61 @@
       <li>deleteStudent</li>
       <li>getStudents</li>
     </ul>
+    
+# doubleLinkwed
+ 
+<h4>Functions</h4>
+    <ul>  
+      <li>addFront</li>
+      <li>addLast</li>
+      <li>printRev</li>
+      <li>deleteNode</li>
+      <li>singleToDeleteNode</li>
+    </ul>
+    
+# circularLinkwed
+ 
+<h4>Functions</h4>
+    <ul>  
+      <li>addFront</li>
+      <li>addLast</li>
+    </ul>
+    
+# stackArray
+ 
+<h4>Functions</h4>
+    <ul>  
+      <li>reset</li>
+      <li>push</li>
+      <li>pop</li>
+    </ul>
+    
+# stackList
+ 
+<h4>Functions</h4>
+    <ul>  
+      <li>reset</li>
+      <li>push</li>
+      <li>pop</li>
+    </ul>
+    
+# queueArray
+ 
+<h4>Functions</h4>
+    <ul>  
+      <li>initialize</li>
+      <li>enqueue</li>
+      <li>dequeue</li>
+    </ul>
+    
+# queueLinked
+ 
+<h4>Functions</h4>
+    <ul>  
+      <li>initialize</li>
+      <li>enqueue</li>
+      <li>dequeue</li>
+    </ul>
+
+    
+
