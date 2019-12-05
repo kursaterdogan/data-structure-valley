@@ -43,7 +43,7 @@
       <li>pop</li>
     </ul>
     
-# stackList
+# stackLinked
  
 <h4>Functions</h4>
     <ul>  
