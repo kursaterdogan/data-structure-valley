@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/soullreaver/soullreaver/linked-list-operations.svg)](http://hits.dwyl.io/soullreaver/soullreaver/linked-list-operations)
+[![HitCount](http://hits.dwyl.io/kursaterdogan/data-structure-valley.svg)](http://hits.dwyl.io/kursaterdogan/data-structure-valley)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # singlyLinked
  
